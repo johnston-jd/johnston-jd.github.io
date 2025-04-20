@@ -7,7 +7,7 @@ Welcome! I started my educational journey at Southern New Hampshire University i
 
 ### Original Project
 The original project that was used for all of the enhancements was from CS-340 Client/Server Development. In this course we used Jupyter Notebooks and MongoDB to create an interactive dashboard that showed animal data from the Austin Animal Center. This dashboard included a datatable with animals that can be sorted and selected, a map that showed the location of a selected animal, and a pie chart displaying the different animal breeds. The project was written in Python coding language and used a simple CRUD to create, read, update, and delete entries into the MongoDB database. The Jupyter Notebook was connected to the MongoDB database. For the enhancements, I continued to use Python language but utilized a different IDE (PyCharm), data structure, and database.
-<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/3af820cb3ee64481ed68ebb4a020169910bbfa77/CS-340%20Originals" Original Project </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/3af820cb3ee64481ed68ebb4a020169910bbfa77/CS-340%20Originals"> Original Project </a>
 ### Educational Experience
 The courses at SNHU were able to create a team enviornment by using weekly discussion posts where we could communicate with out peers. While most projects and assignments were completed individually, there were opportunities for teamwork and collaboration. We were able to take on the roles of an Agile team, such as a product owner, scrum master, developers, and testers. By creating professional documents we learned how to communicate with stakeholders effectively and what is expected in real-world roles. We learned about the different data structures, such as arrays, linked lists, hash tables, and trees, and which algorithms are bested suited for the various data structures. We were introduced to databases and MySQL where we learned how to create and maintain a database using MySQL statements. We also learned the imortance of security with authentication, checksums, and encryption.
 
@@ -26,8 +26,8 @@ I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. T
 ![image](https://github.com/user-attachments/assets/2d1d4181-e62a-40a6-8037-399e98c3cae0)
 *Screen shot of the dashboard with data table, pie chart, and map*
 
-<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/ac2d78be9d57f07eac00f1825a29ea0ddfec445b/CS-499%20Enhancements/Enhancement%201%20-%20Software%20Engineering%20%26%20Design" Enhancement 1 </a>
-<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/c343ccfc5e407e92d6a246b7ce37856e09ec8f89/Narratives/CS-499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20J.Johnston.docx" Enhancement 1 Narrative</a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/ac2d78be9d57f07eac00f1825a29ea0ddfec445b/CS-499%20Enhancements/Enhancement%201%20-%20Software%20Engineering%20%26%20Design"> Enhancement 1 </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/c343ccfc5e407e92d6a246b7ce37856e09ec8f89/Narratives/CS-499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20J.Johnston.docx"> Enhancement 1 Narrative</a>
 
 
 ## Enhancement 2 - Data Structures & Algorithms
@@ -39,8 +39,8 @@ I implemented a hashmap to enhance the data structure. The database had a lot of
 ![image](https://github.com/user-attachments/assets/b026b3cb-ba34-451e-aa8b-80b4e9f30e5e)
 *Screen shot of partial hashmap code*
 
-< a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/cacb10ce3e187c688b616d45c04e3f81cba55e60/CS-499%20Enhancements/Enhancement%202%20-%20Data%20Structures%20%26%20Algorithms" Enhancement 2 </a>
-<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/304c33b0a30efa35017d28e3980ac81e6042655c/Narratives/CS-499%204-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20J.Johnston.docx" Enhancement 2 Narrative </a>
+< a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/cacb10ce3e187c688b616d45c04e3f81cba55e60/CS-499%20Enhancements/Enhancement%202%20-%20Data%20Structures%20%26%20Algorithms"> Enhancement 2 </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/304c33b0a30efa35017d28e3980ac81e6042655c/Narratives/CS-499%204-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20J.Johnston.docx"> Enhancement 2 Narrative </a>
 
 ## Enhancement 3 - Databases
 I moved the database from MongoDB to MariaDB/HeidiSQL, utilizing Amazon Web Services. By using Amazon Web Services for the database creation I am adding more security, and improving scalability and performance. I used MariaDB/HeidiSQL for the database and was able to connect the database in PyCharm. I used the original csv file and was able to successfully import it into MariaDB. I also used AWS and MySQL to create another database for FastAPI user authentication. I was able to connect the MySQL database using the username, password, host, port, database name. This enhancement shows my ability to use various database options and transfer datasets without issue.
@@ -51,5 +51,5 @@ I moved the database from MongoDB to MariaDB/HeidiSQL, utilizing Amazon Web Serv
 ![image](https://github.com/user-attachments/assets/4cc3f856-cbc2-44bc-99c4-19da16857504)
 *Screen shot showing PyCharm connected to the MariaDB database*
 
-<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/bac2be7830db6aa5de12953478458e7ab7cfca28/CS-499%20Enhancements/Enhancement%203%20-%20Databases" Enhancement 3 </a>
-<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/0e867e2ee491b620a9b5068637030b411d00a410/Narratives/CS-499%205-2%20Milestone%20Four%20Enhancement%20Three%20Databases%20J.Johnston.docx" Enhancement 3 Narrative </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/bac2be7830db6aa5de12953478458e7ab7cfca28/CS-499%20Enhancements/Enhancement%203%20-%20Databases"> Enhancement 3 </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/0e867e2ee491b620a9b5068637030b411d00a410/Narratives/CS-499%205-2%20Milestone%20Four%20Enhancement%20Three%20Databases%20J.Johnston.docx"> Enhancement 3 Narrative </a>

@@ -1,9 +1,18 @@
-# johnston-jd.github.io
+# Jaymie Johnston
 
 ## Introduction
+Welcome! I started my educational journey at Southern New Hampshire University in October of 2022. I am set to graduate with a Bachelor's degree in Computer Science in Spring of 2025. Over this period I have learned a lot from every course I participated in. I hope to use this page to showcase my growth during my time at SNHU. In our Capstone project we aimed to enhance 1-3 projects from past courses in three areas - Software Engineering & Design, Data Structures & Algorithms, and Databases. For this Capstone, I used the same project for all three enhancements. You will find more details about the original project and the enhancements in the below sections.
+
+## Professiona Self-Assessment
+
+## Original Project
+The original project that was used for all of the enhancements was from CS-340 Client/Server Development. In this course we used Jupyter Notebooks and MongoDB to create an interactive dashboard that showed animal data from the Austin Animal Center. This dashboard included a datatable with animals that can be sorted and selected, a map that showed the location of a selected animal, and a pie chart displaying the different animal breeds. The project was written in Python coding language and used a simple CRUD to create, read, update, and delete entries into the MongoDB database. The Jupyter Notebook was connected to the MongoDB database. For the enhancements, I continued to use Python language but utilized a different IDE (PyCharm), data structure, and database.
 
 ## Enhancement 1 - Software Engineering & Design
+I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. This allowed all of the files to be contained in one place, keeping everything organized and clean. One aspect that the original project was lacking in was authentication. I used FastAPI and OAuth2 to create a level of security. This included a security key and hashed password. Adding this feature provided more security to the project that was not present before. To enhance the design aspect of the project, I made a lot of small, but important updates. First, I gave the user the ability to select more than one animal in the datatable. I also provided additional filtering options and updated the marker on the map to show the animal ID for easier identification. Originally the pie chart on the dashboard showed all animals from the table - a whopping 10,000 animals - which created a cluttered and unappealing visual. To enhance this, I changed the pie chart to just show the different animal types and also changed the color scheme to match the client's logo at the top of the page. These enhancements show my ability to recognize a need for security as well as anticipate user needs.
 
 ## Enhancement 2 - Data Structures & Algorithms
+I implemented a hashmap to enhance the data structure. The database had a lot of records, and creating a hashmap allows for easy and quick access to records. Hashmaps have key-value pairs, which maps keys to their respective values and allows for quick retrevial. The hashmap connects to the MariaDB database that houses the animal shelter dataset. By implementing a hashmap I am able to showcase my ability to recognize what data structures are appropriate for various projects.
 
 ## Enhancement 3 - Databases
+I moved the database from MongoDB to MariaDB/HeidiSQL, utilizing Amazon Web Services. By using Amazon Web Services for the database creation I am adding more security. I used MariaDB/HeidiSQL for the database and was able to connect the database in PyCharm. I used the original csv file and was able to successfully import it into MariaDB. This enhancement shows my ability to use various database options and transfer datasets without issue.

@@ -11,6 +11,9 @@ The original project that was used for all of the enhancements was from CS-340 C
 ## Enhancement 1 - Software Engineering & Design
 I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. This allowed all of the files to be contained in one place, keeping everything organized and clean. One aspect that the original project was lacking in was authentication. I used FastAPI and OAuth2 to create a level of security. This included a security key and hashed password. Adding this feature provided more security to the project that was not present before. To enhance the design aspect of the project, I made a lot of small, but important updates. First, I gave the user the ability to select more than one animal in the datatable. I also provided additional filtering options and updated the marker on the map to show the animal ID for easier identification. Originally the pie chart on the dashboard showed all animals from the table - a whopping 10,000 animals - which created a cluttered and unappealing visual. To enhance this, I changed the pie chart to just show the different animal types and also changed the color scheme to match the client's logo at the top of the page. These enhancements show my ability to recognize a need for security as well as anticipate user needs.
 
+![image](https://github.com/user-attachments/assets/49ce20f2-efee-4587-bd97-2496b1e14e3a)
+
+
 ## Enhancement 2 - Data Structures & Algorithms
 I implemented a hashmap to enhance the data structure. The database had a lot of records, and creating a hashmap allows for easy and quick access to records. Hashmaps have key-value pairs, which maps keys to their respective values and allows for quick retrevial. The hashmap connects to the MariaDB database that houses the animal shelter dataset. By implementing a hashmap I am able to showcase my ability to recognize what data structures are appropriate for various projects.
 

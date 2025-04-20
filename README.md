@@ -4,7 +4,7 @@
 
 ### Introduction
 Welcome! I started my educational journey at Southern New Hampshire University in October of 2022. I am set to graduate with a Bachelor's degree in Computer Science in Spring of 2025. Over this period I have learned a lot from every course I participated in. I will be using this page to showcase my growth during my time at SNHU. The courses I took included not just coding, but also the software development lifecycle, databases, operating platforms, software testing, and software security. Working through these courses provided me with an understanding of the many different areas of computer science. In our Capstone project we aimed to enhance 1-3 projects from past courses in three areas - Software Engineering & Design, Data Structures & Algorithms, and Databases. For this Capstone, I used the same project for all three enhancements.
-https://github.com/johnston-jd/johnston-jd.github.io/tree/5858e5f0e432f146af58486dab4a2cd7a0e9eb02/Narratives
+
 ### Original Project
 The original project that was used for all of the enhancements was from CS-340 Client/Server Development. In this course we used Jupyter Notebooks and MongoDB to create an interactive dashboard that showed animal data from the Austin Animal Center. This dashboard included a datatable with animals that can be sorted and selected, a map that showed the location of a selected animal, and a pie chart displaying the different animal breeds. The project was written in Python coding language and used a simple CRUD to create, read, update, and delete entries into the MongoDB database. The Jupyter Notebook was connected to the MongoDB database. For the enhancements, I continued to use Python language but utilized a different IDE (PyCharm), data structure, and database.
 ### Educational Experience
@@ -24,6 +24,8 @@ I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. T
 
 ![image](https://github.com/user-attachments/assets/2d1d4181-e62a-40a6-8037-399e98c3cae0)
 *Screen shot of the dashboard with data table, pie chart, and map*
+
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/c343ccfc5e407e92d6a246b7ce37856e09ec8f89/Narratives/CS-499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20J.Johnston.docx" Enhancement 1 Narrative</a>
 
 
 ## Enhancement 2 - Data Structures & Algorithms

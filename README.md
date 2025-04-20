@@ -14,10 +14,12 @@ Code review of the project selected for the Capstone.
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077123412?h=d6ec3db3a8&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Code_ Review_ J.Johnston"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
+
 ## Enhancement 1 - Software Engineering & Design
 I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. This allowed all of the files to be contained in one place, keeping everything organized and clean. One aspect that the original project was lacking in was authentication. I used FastAPI and OAuth2 to create a level of security. This included a security key and hashed password. Adding this feature provided more security to the project that was not present before. To enhance the design aspect of the project, I made a lot of small, but important updates. First, I gave the user the ability to select more than one animal in the datatable. I also provided additional filtering options and updated the marker on the map to show the animal ID for easier identification. Originally the pie chart on the dashboard showed all animals from the table - a whopping 10,000 animals - which created a cluttered and unappealing visual. To enhance this, I changed the pie chart to just show the different animal types and also changed the color scheme to match the client's logo at the top of the page. These enhancements show my ability to recognize a need for security as well as anticipate user needs.
 
 ![image](https://github.com/user-attachments/assets/49ce20f2-efee-4587-bd97-2496b1e14e3a)
+
 *Screen shot of partial FastAPI code*
 ![image](https://github.com/user-attachments/assets/2d1d4181-e62a-40a6-8037-399e98c3cae0)
 *Screen shot of the dashboard with data table, pie chart, and map*

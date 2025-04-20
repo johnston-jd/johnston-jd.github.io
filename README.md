@@ -26,7 +26,7 @@ I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. T
 ![image](https://github.com/user-attachments/assets/2d1d4181-e62a-40a6-8037-399e98c3cae0)
 *Screen shot of the dashboard with data table, pie chart, and map*
 
-<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/ac2d78be9d57f07eac00f1825a29ea0ddfec445b/CS-499%20Enhancements/Enhancement%201%20-%20Software%20Engineering%20%26%20Design" Enhancement 1 Folder </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/ac2d78be9d57f07eac00f1825a29ea0ddfec445b/CS-499%20Enhancements/Enhancement%201%20-%20Software%20Engineering%20%26%20Design" Enhancement 1 </a>
 <a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/c343ccfc5e407e92d6a246b7ce37856e09ec8f89/Narratives/CS-499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20J.Johnston.docx" Enhancement 1 Narrative</a>
 
 
@@ -39,6 +39,7 @@ I implemented a hashmap to enhance the data structure. The database had a lot of
 ![image](https://github.com/user-attachments/assets/b026b3cb-ba34-451e-aa8b-80b4e9f30e5e)
 *Screen shot of partial hashmap code*
 
+< a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/cacb10ce3e187c688b616d45c04e3f81cba55e60/CS-499%20Enhancements/Enhancement%202%20-%20Data%20Structures%20%26%20Algorithms" Enhancement 2 </a>
 <a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/304c33b0a30efa35017d28e3980ac81e6042655c/Narratives/CS-499%204-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20J.Johnston.docx" Enhancement 2 Narrative </a>
 
 ## Enhancement 3 - Databases

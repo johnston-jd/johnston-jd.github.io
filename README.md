@@ -39,6 +39,8 @@ I implemented a hashmap to enhance the data structure. The database had a lot of
 ![image](https://github.com/user-attachments/assets/b026b3cb-ba34-451e-aa8b-80b4e9f30e5e)
 *Screen shot of partial hashmap code*
 
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/304c33b0a30efa35017d28e3980ac81e6042655c/Narratives/CS-499%204-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20J.Johnston.docx" Enhancement 2 Narrative </a>
+
 ## Enhancement 3 - Databases
 I moved the database from MongoDB to MariaDB/HeidiSQL, utilizing Amazon Web Services. By using Amazon Web Services for the database creation I am adding more security, and improving scalability and performance. I used MariaDB/HeidiSQL for the database and was able to connect the database in PyCharm. I used the original csv file and was able to successfully import it into MariaDB. I also used AWS and MySQL to create another database for FastAPI user authentication. I was able to connect the MySQL database using the username, password, host, port, database name. This enhancement shows my ability to use various database options and transfer datasets without issue.
 

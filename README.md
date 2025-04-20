@@ -52,3 +52,4 @@ I moved the database from MongoDB to MariaDB/HeidiSQL, utilizing Amazon Web Serv
 *Screen shot showing PyCharm connected to the MariaDB database*
 
 <a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/bac2be7830db6aa5de12953478458e7ab7cfca28/CS-499%20Enhancements/Enhancement%203%20-%20Databases" Enhancement 3 </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/0e867e2ee491b620a9b5068637030b411d00a410/Narratives/CS-499%205-2%20Milestone%20Four%20Enhancement%20Three%20Databases%20J.Johnston.docx" Enhancement 3 Narrative </a>

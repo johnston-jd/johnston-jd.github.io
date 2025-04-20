@@ -1,7 +1,7 @@
 # Jaymie Johnston
 
 ## Introduction
-Welcome! I started my educational journey at Southern New Hampshire University in October of 2022. I am set to graduate with a Bachelor's degree in Computer Science in Spring of 2025. Over this period I have learned a lot from every course I participated in. I hope to use this page to showcase my growth during my time at SNHU. In our Capstone project we aimed to enhance 1-3 projects from past courses in three areas - Software Engineering & Design, Data Structures & Algorithms, and Databases. For this Capstone, I used the same project for all three enhancements. You will find more details about the original project and the enhancements in the below sections.
+Welcome! I started my educational journey at Southern New Hampshire University in October of 2022. I am set to graduate with a Bachelor's degree in Computer Science in Spring of 2025. Over this period I have learned a lot from every course I participated in. I will be using this page to showcase my growth during my time at SNHU. In our Capstone project we aimed to enhance 1-3 projects from past courses in three areas - Software Engineering & Design, Data Structures & Algorithms, and Databases. For this Capstone, I used the same project for all three enhancements. You will find more details about the original project and the enhancements in the below sections.
 
 ## Professional Self-Assessment
 

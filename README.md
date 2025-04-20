@@ -22,6 +22,8 @@ I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. T
 ![image](https://github.com/user-attachments/assets/49ce20f2-efee-4587-bd97-2496b1e14e3a)
 ![image](https://github.com/user-attachments/assets/2d1d4181-e62a-40a6-8037-399e98c3cae0)
 
+CS-499 Enhancements/Enhancement 1 - Software Engineering & Design
+
 
 ## Enhancement 2 - Data Structures & Algorithms
 I implemented a hashmap to enhance the data structure. The database had a lot of records, and creating a hashmap allows for easy and quick access to records. Hashmaps have key-value pairs, which maps keys to their respective values and allows for quick retrevial. The hashmap connects to the MariaDB database that houses the animal shelter dataset. By implementing a hashmap I am able to showcase my ability to recognize what data structures are appropriate for various projects.

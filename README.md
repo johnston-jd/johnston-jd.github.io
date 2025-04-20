@@ -1,4 +1,4 @@
-### Jaymie Johnston
+### Jaymie Johnston | CS-499 Capstone
 
 ## Professional Self-Assessment
 

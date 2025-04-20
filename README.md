@@ -19,9 +19,9 @@ Code review of the project selected for the Capstone.
 ## Enhancement 1 - Software Engineering & Design
 I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. This allowed all of the files to be contained in one place, keeping everything organized and clean. One aspect that the original project was lacking in was authentication. I used FastAPI and OAuth2 to create a level of security. This included a security key and hashed password. Adding this feature provided more security to the project that was not present before. To enhance the design aspect of the project, I made a lot of small, but important updates. First, I gave the user the ability to select more than one animal in the datatable. I also provided additional filtering options and updated the marker on the map to show the animal ID for easier identification. Originally the pie chart on the dashboard showed all animals from the table - a whopping 10,000 animals - which created a cluttered and unappealing visual. To enhance this, I changed the pie chart to just show the different animal types and also changed the color scheme to match the client's logo at the top of the page. These enhancements show my ability to recognize a need for security as well as anticipate user needs.
 
-![image](https://github.com/user-attachments/assets/49ce20f2-efee-4587-bd97-2496b1e14e3a)<br></br>
+![image](https://github.com/user-attachments/assets/49ce20f2-efee-4587-bd97-2496b1e14e3a)
 *Screen shot of partial FastAPI code*
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/2d1d4181-e62a-40a6-8037-399e98c3cae0)
 *Screen shot of the dashboard with data table, pie chart, and map*
 
@@ -31,7 +31,7 @@ I implemented a hashmap to enhance the data structure. The database had a lot of
 
 ![image](https://github.com/user-attachments/assets/38929ba2-00d8-4a1d-8718-e7968db5ce2a)
 *Screen shot of partial hashmap code*
-
+<br></br>
 ![image](https://github.com/user-attachments/assets/b026b3cb-ba34-451e-aa8b-80b4e9f30e5e)
 *Screen shot of partial hashmap code*
 

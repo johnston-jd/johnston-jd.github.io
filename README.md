@@ -25,6 +25,7 @@ I moved the project from the virtual IDE and Jupyter Notebooks to PyCharm IDE. T
 ![image](https://github.com/user-attachments/assets/2d1d4181-e62a-40a6-8037-399e98c3cae0)
 *Screen shot of the dashboard with data table, pie chart, and map*
 
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/ac2d78be9d57f07eac00f1825a29ea0ddfec445b/CS-499%20Enhancements/Enhancement%201%20-%20Software%20Engineering%20%26%20Design" Enhancement 1 Folder </a>
 <a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/c343ccfc5e407e92d6a246b7ce37856e09ec8f89/Narratives/CS-499%203-2%20Milestone%20Two%20Enhancement%20One%20Software%20Design%20and%20Engineering%20J.Johnston.docx" Enhancement 1 Narrative</a>
 
 

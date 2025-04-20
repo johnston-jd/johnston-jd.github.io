@@ -45,7 +45,7 @@ I implemented a hashmap to enhance the data structure. The database had a lot of
 
 *Screen shot of partial hashmap code*
 
-< a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/cacb10ce3e187c688b616d45c04e3f81cba55e60/CS-499%20Enhancements/Enhancement%202%20-%20Data%20Structures%20%26%20Algorithms"> Enhancement 2 </a>
+<a href="https://github.com/johnston-jd/johnston-jd.github.io/tree/cacb10ce3e187c688b616d45c04e3f81cba55e60/CS-499%20Enhancements/Enhancement%202%20-%20Data%20Structures%20%26%20Algorithms"> Enhancement 2 </a>
 
 <a href="https://github.com/johnston-jd/johnston-jd.github.io/blob/304c33b0a30efa35017d28e3980ac81e6042655c/Narratives/CS-499%204-2%20Milestone%20Three%20Enhancement%20Two%20Algorithms%20and%20Data%20Structure%20J.Johnston.docx"> Enhancement 2 Narrative </a>
 

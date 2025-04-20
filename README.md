@@ -5,6 +5,7 @@ Welcome! I started my educational journey at Southern New Hampshire University i
 
 ## Professional Self-Assessment
 
+
 ## Original Project
 The original project that was used for all of the enhancements was from CS-340 Client/Server Development. In this course we used Jupyter Notebooks and MongoDB to create an interactive dashboard that showed animal data from the Austin Animal Center. This dashboard included a datatable with animals that can be sorted and selected, a map that showed the location of a selected animal, and a pie chart displaying the different animal breeds. The project was written in Python coding language and used a simple CRUD to create, read, update, and delete entries into the MongoDB database. The Jupyter Notebook was connected to the MongoDB database. For the enhancements, I continued to use Python language but utilized a different IDE (PyCharm), data structure, and database.
 

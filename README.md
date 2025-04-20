@@ -1,4 +1,5 @@
 # Jaymie Johnston
+B.S. Computer Science | Southern New Hampshire University
 
 ## Professional Self-Assessment
 
